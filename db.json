@@ -28,7 +28,11 @@
 			"price": "1$"
 
 		}
-
+		{
+			"id":12,
+			"name":"Metafaminka",
+			"price": "12$"
+		}
 
 
 	]
