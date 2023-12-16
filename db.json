@@ -1,6 +1,11 @@
 {
 	"users": [
-		
+		{
+			"id": "2",
+			"name": "Guzkodavilo",
+			"surname": "Davlugusa",
+			"balance": "-100$"
 
+		}
 	]
 }
