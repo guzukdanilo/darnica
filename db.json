@@ -30,7 +30,20 @@
 
 
 		}
+		{
+<<<<<<< HEAD
+			"id":12,
+			"name":"Metafaminka",
+			"price": "12$"
+		}
+=======
+			"id": 21,			
+			"name":"MukaltinDanya",
+			"price": "250000$"
 
+		}
+
+>>>>>>> 5fce2c8bb3296cc5b4ec155668a8f80449cb4e53
 
 
 	]
