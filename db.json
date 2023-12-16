@@ -13,19 +13,21 @@
 			"balance": "-100$"
 		},
 	
-		{
-			"id": 3,
-			"name":"Danya",
-			"surname":"Huziuk",
-			"balance":"450000000000000$"
-		}
+	
 	],
 	
 	"products": [
 		{
 			"id":11,
 			"name":"Mukaltun",
-			"price": "1$"
+			"price": "1$",
+			"id":12,
+			"name":"Mukaltun pobida",
+			"price": "1945$",
+			"id":11,
+			"name":"Mukaltun Polsha(polovinka)",
+			"price": "1941-1945$",
+
 
 		}
 
