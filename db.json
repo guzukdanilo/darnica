@@ -19,6 +19,12 @@
 			"surname":"Huziuk",
 			"balance":"450000000000000$"
 		}
-	]
+	],
+	"products": [
+		{
+"id": 1,
+"name": "Nukaltin nacistrashisht Darnica"
+
+	}]
 		
 }
