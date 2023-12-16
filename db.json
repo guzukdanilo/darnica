@@ -1,10 +1,23 @@
 {
+
 	"users":[
 		{
 			"id":1,
 			"name":"Sviatoslav",
 			"surname":"Kacmar",
 			"balance":"1500"
+		},
+
+	
+		{
+			"id": 1,
+			"name":"Danya",
+			"surname":"Huziuk",
+			"balance":"450000000000000$"
 		}
+
+		
+
 	]
+		
 }
