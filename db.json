@@ -24,8 +24,8 @@
 	"products": [
 		{
 			"id":11,
-			"name":"Mukaltun"
-
+			"name":"Mukaltun",
+			"price": "1$"
 
 		}
 
