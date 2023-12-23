@@ -1,61 +1,6 @@
-{
-	"users": [
-		{
-			"id":1,
-			"name":"Sviatoslav",
-			"surname":"Kacmar",
-			"balance":"1500"
-		},
-		{
-			"id": 2,
-			"name": "Guzkodavilo",
-			"surname": "Davlugusa",
-			"balance": "-100$"
-		},
-		{
-			"id": 3,
-			"name": "N1z absolute",
-			"surname": "samii krutoi",
-			"balance": "-100$"
-		},
-	
-	
-	],
-	
-	"products": [
-		{
-			"id":11,
-			"name":"Mukaltun",
-			"price": "1$",
-			"id":12,
-			"name":"Mukaltun pobida",
-			"price": "1945$",
-			"id":11,
-			"name":"Mukaltun Polsha(polovinka)",
-			"price": "1941-1945$",
+"Danilo":"ticho Kreizi?",
+"Stasian":"TI ze ne protiv?",
+"Danilo":"*snal trusiki s Stasa*",
+"Danilo":"O da suchka",
+"Stasian":"Ya tochno Ne zalechu?",
 
-
-		}
-		{
-		"id":12,
-			"name":"Mukaltin",
-			"price": "12$",
-
-		}
-
-			"id" 21,			
-			"name""MukaltinDanya",
-			"price" "250000$"
-
-
-		
-
-
-
-
-	]
-
-	
-
-		
-}
