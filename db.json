@@ -17,41 +17,24 @@
 			"name": "N1z absolute",
 			"surname": "samii krutoi",
 			"balance": "-100$"
-		},
-	
-	
+		}
 	],
 	
 	"products": [
 		{
 			"id":11,
 			"name":"Mukaltun",
-			"price": "1$",
-
-
+			"price": "1$"
 		},
 		{
 		"id":12,
 			"name":"Mukaltin",
-			"price": "12$",
-			
-			
-
+			"price": "12$"
 		},
 		{
 			"id": 21,			
 			"name":"MukaltinDanya",
 			"price": "250000$"
-
 		}
-		
-
-
-
-
-	]
-
-	
-
-		
+	]	
 }
