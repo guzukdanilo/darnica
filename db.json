@@ -15,34 +15,39 @@
 		},
 		{
 			"id": 3,
+<<<<<<< HEAD
 			"name": "N1 Z-patriot absolute",
 			"surname": "samii krutoi",
 			"balance": "-100$",
 		},
 	
 	
+=======
+			"name": "N1 NaturalGeiSSigmaUltraKrutoiGenii absolute",
+			"surname": "samii krutoi",
+			"balance": "-100$"
+		}
+	],
+>>>>>>> cbbbce96b11a2802a9c25e284cd2f949ea22bdff
 	
 	
 	"products"
 		{
 			"id":11,
 			"name":"Mukaltun",
-			"price": "1$",
-			"id":12,
-			"name":"Mukaltun pobida",
-			"price": "1945$",
-			"id":11,
-			"name":"Mukaltun Polsha(polovinka)",
-			"price": "1941-1945$",
-
-
-		}
+			"price": "1$"
+		},
 		{
-		"id":12,
+		        "id":12,
 			"name":"Mukaltin",
-			"price": "12$",
-
+			"price": "12$"
+		},
+		{
+			"id": 21,			
+			"name":"MukaltinDanya",
+			"price": "250000$"
 		}
+<<<<<<< HEAD
 
 			"id" 21,			
 			"name""MukaltinDanya",
@@ -61,3 +66,7 @@
 
 		
 
+=======
+	]	
+}
+>>>>>>> cbbbce96b11a2802a9c25e284cd2f949ea22bdff
