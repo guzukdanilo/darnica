@@ -4,6 +4,7 @@
 			"id":1,
 			"name":"Sviatoslav",
 			"surname":"Kacmar",
+			"job":"dog from money",
 			"balance":"1500"
 		},
 		{
@@ -14,15 +15,15 @@
 		},
 		{
 			"id": 3,
-			"name": "N1z absolute",
+			"name": "N1 Z-patriot absolute",
 			"surname": "samii krutoi",
-			"balance": "-100$"
+			"balance": "-100$",
 		},
 	
 	
-	],
 	
-	"products": [
+	
+	"products"
 		{
 			"id":11,
 			"name":"Mukaltun",
@@ -46,6 +47,7 @@
 			"id" 21,			
 			"name""MukaltinDanya",
 			"price" "250000$"
+		]
 
 
 		
@@ -53,9 +55,9 @@
 
 
 
-	]
+	
 
 	
 
 		
-}
+
