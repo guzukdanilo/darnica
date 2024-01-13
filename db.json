@@ -9,14 +9,15 @@
 		},
 		{
 			"id": 2,
-			"name": "Guzkodavilo",
-			"surname": "Davlugusa",
+			"name": "Danilo",
+			"surname": "Huziuk",
 			"balance": "-100$"
 		},
 		{
 			"id": 3,
-			"name": "N1 Z-patriot absolute",
-			"surname": "samii krutoi",
+			"name": "Yura",
+			"surname": "Naumuk",
+			"nickname":"EnUU",
 			"balance": "-100$",
 		}
 	
@@ -27,16 +28,27 @@
 			"id":1,
 			"name":"Mukaltun (4 таблетки)",
 			"price": "1$"
+			
 		},
 		{
 		        "id":2,
-			"name":"Mukaltin (48 таблеток)",
-			"price": "12$"
+			"name":"Mukaltin (30 таблеток)",
+			"price": "7$"
 		},
 		{
 			"id": 3,			
-			"name":"MukaltinDanya",
-			"price": "250000$"
+			"name":"MukaltinDanya (позолочений (4 таблетки))",
+			"price": "850$"
+		},
+		{
+			"id": 4,			
+			"name":"MukaltinDanyaPremium (діамантовий (4 таблетки))",
+			"price": "2500$"
+		},
+		{
+			"id": 5,			
+			"name":"MukaltinDanyaUltra (рубіновий (4 таблетки))",
+			"price": "5000$"
 		}
 	]
 }
