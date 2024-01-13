@@ -24,17 +24,17 @@
 	
 	"products"
 		{
-			"id":11,
+			"id":1,
 			"name":"Mukaltun (4 таблетки)",
 			"price": "1$"
 		},
 		{
-		        "id":12,
+		        "id":2,
 			"name":"Mukaltin (48 таблеток)",
 			"price": "12$"
 		},
 		{
-			"id": 21,			
+			"id": 3,			
 			"name":"MukaltinDanya",
 			"price": "250000$"
 		}
