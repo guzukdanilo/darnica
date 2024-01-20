@@ -1,12 +1,14 @@
+@font-face{
+	font-family: Abril;
+	src: url('AbrilFatface-Regular.ttf');
+	
+}
 body{
 	background-color: aliceblue;
 	font-family: Abril;
 	
 }
-@font-face{
-	font-family: Abril;
-	src: url('AbrilFatface-Regular.ttf');
-}
+
 header{
 	display: flex; 
 	justify-content: space-between;
