@@ -14,42 +14,29 @@
 		},
 		{
 			"id": 3,
-			"name": "N1z absolute",
+			"name": "N1 NaturalGeiSSigmaUltraKrutoiGenii absolute",
 			"surname": "samii krutoi",
 			"balance": "-100$"
-		},
-	
-	
+		}
 	],
 	
 	"products": [
 		{
 			"id":11,
 			"name":"Mukaltun",
-			"price": "1$",
-			"id":12,
-			"name":"Mukaltun pobida",
-			"price": "1945$",
-			"id":11,
-			"name":"Mukaltun Polsha(polovinka)",
-			"price": "1941-1945$",
-
-
+			"price": "1$"
 		},
 		{
-		"id":12,
+		        "id":12,
 			"name":"Mukaltin",
-			"price": "12$",
-			
-			
-
+			"price": "12$"
 		},
 		{
 			"id": 21,			
 			"name":"MukaltinDanya",
 			"price": "250000$"
-
 		}
+
 		
 
 
@@ -59,5 +46,7 @@
 
 	
 
-		
+
+	]	
+
 }
